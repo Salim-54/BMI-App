@@ -8,9 +8,9 @@
 .buildlog/
 .history
 .svn/
-/windows/
-/web/
-/.vscode/
+windows
+web
+.vscode
 # IntelliJ related
 *.iml
 *.ipr
